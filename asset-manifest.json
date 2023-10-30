@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/item-stock-app/static/css/main.fedc5e85.css",
+    "main.js": "/item-stock-app/static/js/main.4ed4dfa3.js",
+    "static/media/auth.svg": "/item-stock-app/static/media/auth.eebf37999ce8a048847f3182de8d255a.svg",
+    "static/media/MARKER.png": "/item-stock-app/static/media/MARKER.5f52558189f2c9aec4eb.png",
+    "index.html": "/item-stock-app/index.html",
+    "main.fedc5e85.css.map": "/item-stock-app/static/css/main.fedc5e85.css.map",
+    "main.4ed4dfa3.js.map": "/item-stock-app/static/js/main.4ed4dfa3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fedc5e85.css",
+    "static/js/main.4ed4dfa3.js"
+  ]
+}
